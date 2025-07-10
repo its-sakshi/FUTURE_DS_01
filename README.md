@@ -1,7 +1,6 @@
 # FUTURE_DS_01
 **Task 1 – Data Science & Analytics Internship at Future Interns**
-
-## E-commerce Sales Dashboard (Power BI Project)
+## BUSINESS SALES DASHBOARD FROM E-COMMERCE DATA (Power BI Project)
 
 ### Project Overview
 
